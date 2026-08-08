@@ -1,4 +1,4 @@
-### *📍 Project README: Air-Quality-Index-AQI-Prediction-Using-XGBoost*
+### *📍 Project: Air-Quality-Index-AQI-Prediction-Using-XGBoost*
 
 📥 *Dataset:*  
 Air Quality Dataset – Kaggle  
