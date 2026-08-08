@@ -1,9 +1,9 @@
 📥 Dataset: Air Quality Dataset – Kaggle
-
+⚠️ Note: Multiple air quality prediction datasets exist on Kaggle (e.g., India Air Quality Data, City-wise AQI). If a different specific one was used, please replace with the correct source URL.
 🌬️🏭 Air Quality Index (AQI) Prediction using XGBoost 📊🌿
-
 🎯 THE IDEA
-🌆 A machine learning model that predicts and forecasts the Air Quality Index (AQI) for a city or region 🏭, using the XGBoost Regressor algorithm 🚀 — an advanced gradient boosting algorithm that builds decision trees sequentially to minimize prediction errors. The model learns from environmental pollutants like 🧪 PM2.5, PM10, NO2, CO, SO2 along with weather factors like 🌡️ Temperature, 💧 Humidity, and 💨 Wind Speed to accurately forecast pollution levels. 🌿
+🏠 A machine learning model that predicts and forecasts the Air Quality Index (AQI) for a city or region 🏭, using the XGBoost Regressor algorithm 🚀 — an advanced gradient boosting algorithm that builds decision trees sequentially to minimize prediction errors.
+The model learns from environmental pollutants like 🧪 PM2.5, PM10, NO2, CO, SO2 along with weather factors like 🌡️ Temperature, 💧 Humidity, and 💨 Wind Speed to accurately forecast pollution levels. 🌿
 💡 Imagine an Environmental Protection Agency or Smart City Administration 🏛️ needing to issue public health advisories ⚠️ or manage traffic control before pollution spikes — this project replicates that exact real-world environmental monitoring system! 🩺
 📂 DATASET DETAILS
 📥 Source: Kaggle — Air Quality / AQI Dataset 🔗 (sensor-level hourly air pollution and weather readings)
@@ -68,7 +68,7 @@
 🔸 🌐 Deploy as an interactive real-time dashboard using Streamlit
 🔸 🎯 Fine-tune hyperparameter settings (learning_rate, max_depth, n_estimators) for extra precision
 📍 𝗔𝘀𝗽𝗶𝗿𝗶𝗻𝗴 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 👩‍💻👨‍💻
-🙏 Heartfelt thanks to my mentor Aiman Kazi Sir  for guiding me through this impactful application of machine learning in environmental data science.
+🙏 Heartfelt thanks to my mentor Aiman Kazi Sir 🙌 for guiding me through this impactful application of machine learning in environmental data science.
 🏢 VISUAL LABS 🏢
 💬 Feedback and suggestions are always welcome — let's connect and discuss! 🤝✨
 #MachineLearning #Python #XGBoost #AQIPrediction #AirQuality #EnvironmentalScience #RegressionModel #ScikitLearn #DataScience #ArtificialIntelligence #Kaggle #DataAnalytics #Programming #LearningInPublic #StudentDeveloper #100DaysOfCode
