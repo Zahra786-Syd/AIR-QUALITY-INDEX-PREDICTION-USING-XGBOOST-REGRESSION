@@ -1,0 +1,2 @@
+# AIR-QUALITY-INDEX-PREDICTION-USING-XGBOOST-REGRESSION
+# Air Quality Index Prediction using XGBoost  This ML project predicts Air Quality Index from pollutant data using XGBoost Regressor. It performs EDA, correlation analysis, model training with 300 estimators, and evaluation using MAE/MSE/RMSE/R2. Includes feature importance visualization, model saving, and interactive user prediction with AQI.
